@@ -5,7 +5,7 @@
 I am an ecology and evolutionary biologist at Tulane University. My work uses metagenomics and whole-genome sequencing to explore the interaction foliar fungal symbionts, AKA endophytes, in tropical trees and alpine yellow monkeyflowers . I combine field biology and wet lab skills with data science to answer how leaf traits in tropical trees and alpine yellow monkeyflowers influence the endophyte communities able to colonize them.  More info in my [CV](https://github.com/bolivaraponte/CVR_BAR/tree/Main).
 
 
-## Data Scientist | Machine Learning Enthusiast | Bioinformatics Specialist | Instructor
+## Data Scientist | Machine Learning Enthusiast | Bioinformatics Specialist
 
 I leverage some machine learning algorithms to analyze genomic and ecological data for insightful patterns. My expertise includes:
 
@@ -23,22 +23,22 @@ I leverage some machine learning algorithms to analyze genomic and ecological da
 - **Version Control**: Git, GitHub
 
 
-## 📈 Projects
+# 📈 Projects
 
-### I'm currently working on...
+## I'm currently working on...
 
-#### [endophytes-leaf-traits](https://github.com/bolivaraponte/endophyte-leaf-traits)
+### [endophytes-leaf-traits](https://github.com/bolivaraponte/endophyte-leaf-traits)
 
 This project investigates the role of endophytes in the modulation of leaf functional traits and tropical trees'  response to herbivory and pathogen damage.
 
-#### [endophytes_mimulus](https://github.com/bolivaraponte/endophytes_mimulus)
+### [endophytes_mimulus](https://github.com/bolivaraponte/endophytes_mimulus)
 
 This project aims to explore and characterize the endophytes found on the leaf tissue of *Mimulus guttatus*, *Mimulus laciniatus*, *Mimulus nasutus* and others along an elevation and geographic gradient in the Sierra Nevada, California, USA.
 
 
-### Past projects
+## Past projects...
 
-#### [Between two trees](https://github.com/bolivaraponte/Between_two_trees)
+### [Between two trees](https://github.com/bolivaraponte/Between_two_trees)
 
 My scientific debut!
 
