@@ -1,15 +1,13 @@
-# Hello, I'm Bolívar
-
 ## About Me
 
 I am an ecology and evolutionary biologist at Tulane University. My work uses metagenomics and whole-genome sequencing to explore the interaction foliar fungal symbionts, AKA endophytes, in tropical trees and alpine yellow monkeyflowers . I combine field biology and wet lab skills with data science to answer how leaf traits in tropical trees and alpine yellow monkeyflowers influence the endophyte communities able to colonize them.  More info in my [CV](https://github.com/bolivaraponte/CVR_BAR/tree/Main).
 
 
-## Data Scientist | Machine Learning Enthusiast | Bioinformatics Specialist
+## Data Scientist | Machine Learning Enthusiast | Bioinformatics newbie
 
 I leverage some machine learning algorithms to analyze genomic and ecological data for insightful patterns. My expertise includes:
 
-- **Distance-Based Redundancy Analyses (db-RDA)**: Utilizing dimensional reduction techniques to extract meaningful patterns from leaf trait and environmental data.
+- **Distance-Based Redundancy Analyses (db-RDA)**: Utilizing dimensional reduction techniques to extract meaningful patterns from biological and environmental data.
 - **Linear models**: Applying general linear models and linear mixed models to ecological data.
 - **Linear Discriminant Analyses (LDA)**: Applying statistical methods to enhance classification accuracy of fungal communities.
 - **Bioinformatics**: Utilizing HPC clusters and Unix like systems to analyse ITS amplicons from endophyte communities
@@ -17,8 +15,8 @@ I leverage some machine learning algorithms to analyze genomic and ecological da
 
 ## Technologies & Tools
 
-- **Programming Languages**: R (advanced), Python (proficient), and C (proficient)
-- **Bioinformatics Tools**: Open-source tools: cutadapt, dada2, Trimmomatic
+- **Programming Languages**: R (advanced), Python (beginner), and C (beginner)
+- **Bioinformatics Tools**: Open-source tools: *cutadapt, dada2, Trimmomatic*
 - **Data Visualization**: ggplot2
 - **Version Control**: Git, GitHub
 
