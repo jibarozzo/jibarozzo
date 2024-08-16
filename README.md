@@ -1,16 +1,14 @@
 ## About Me
-
 I am an ecology and evolutionary biologist and data scientist. My work encompasses metagenomics and whole-genome sequencing to explore the interaction foliar fungal symbionts, AKA endophytes, in tropical trees and alpine yellow monkeyflowers . I combine field biology and wet lab skills with data science to answer how leaf traits in tropical trees and alpine yellow monkeyflowers influence the endophyte communities able to colonize them.  More info in my [CV](https://github.com/bolivaraponte/CVR_BAR/tree/Main).
-
 
 ## Data Scientist | Machine Learning & Bioinformatics Enthusiast
 
 I leverage some machine learning algorithms to analyze genomic and ecological data for insightful patterns. My expertise includes:
 
+
 - **Clustering/dimensionality reduction**:   *Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), & distance-based Redundacy Analysis (dbRDA)* Utilizing dimensional reduction techniques to to enhance classification accuracy of fungal communities and understand patterns from biological and environmental data.
 - **Linear models**: Applying general linear models and linear mixed models to ecological data.
 - **Bioinformatics**: Utilizing HPC clusters and Unix like systems to analyse ITS amplicons from endophyte communities
-
 
 ## Technologies & Tools
 
