@@ -1,4 +1,8 @@
 ## About Me
+![Jibarozzo's visitors](https://visitor-badge.laobi.icu/badge?page_id=jibarozzo.jibarozzo) 
+[![Jibarozzo's GitHub followers](https://img.shields.io/github/followers/jibarozzo?label=Follow&style=social)](https://github.com/jibarozzo)
+
+
 I am an ecology and evolutionary biologist and data scientist. My work encompasses metagenomics and whole-genome sequencing to explore the interaction foliar fungal symbionts, AKA endophytes, in tropical trees and alpine yellow monkeyflowers . I combine field biology and wet lab skills with data science to answer how leaf traits in tropical trees and alpine yellow monkeyflowers influence the endophyte communities able to colonize them.  More info in my [CV](https://github.com/bolivaraponte/CVR_BAR/tree/Main).
 
 ## Data Scientist | Machine Learning & Bioinformatics Enthusiast
