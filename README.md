@@ -14,17 +14,9 @@ I leverage some machine learning algorithms to analyze genomic and ecological da
 - **Linear models**: Applying general linear models and linear mixed models to ecological data.
 - **Bioinformatics**: Utilizing HPC clusters and Unix like systems to analyse ITS amplicons from endophyte communities
 
-## Technologies & Tools
+### :hammer_and_wrench: Languages and Tools
 
-|                                      |                                                                                   |
-| ------------------------------------ | --------------------------------------------------------------------------------- |
-| **Programing/Interface**             | R, Python, Bash, LaTex, Markdown                                                  |
-| **Data Reporting**                   | Quarto                                                                            |
-| **OS/Shell Experience**              | Linux, PowerShell, WSL                                                            |
-| **Cloud Computing**                  | CentOS 7 HPC                                                                      |
-| **Data Wrangling and Visualization** | *tidyverse* and *ggplot2* R libraries                                             |
-| **Version Control**                  | Git and GitHub                                                                    |
-| **Bioinformatic Tools**              | GATK, samtools, bwa, cutadapt, Trimmomatic, *phyloseq* and *microeco* R libraries |
+[![My Skills](https://skillicons.dev/icons?i=r,rust,python,docker,bash,latex,html,css,obsidian,arch&perline=4&theme=dark)](https://skillicons.dev)
 
 
 [![Bolívar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jibarozzo&show_icons=true&theme=highcontrast)](https://github.com/jibarozzo/github-readme-stats)
@@ -46,6 +38,6 @@ This project aims to explore and characterize the endophytes found on the leaf t
 
 I am excited about the intersection of ecology, genomics and data science. Let's connect and explore potential collaborations or discuss how my skills can contribute to your projects. Feel free to reach out!
 
-[LinkedIn](https://www.linkedin.com/in/jibarozzo/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jibarozzo/) 
 [Email](mailto:apontebolivar@gmail.com)
 
