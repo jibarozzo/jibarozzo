@@ -36,7 +36,7 @@ You can find more details about my professional background in my [CV](https://gi
 
 ### 💬 Let’s Connect
 
-I’m always interested in new collaborations, open-source projects, and discussions about data science, bioinformatics, and reproducibility. Feel free to reach out or connect via [GitHub Issues](https://github.com/jibarozzo) or [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/bolivar-aponte/).
+I’m always interested in new collaborations, open-source projects, and discussions about data science, bioinformatics, and reproducibility. Feel free to reach out or connect via [GitHub Issues](https://github.com/jibarozzo) or [LinkedIn](https://www.linkedin.com/in/bolivar-aponte/).
 
 ### :hammer_and_wrench: Languages and Tools
 
