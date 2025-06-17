@@ -1,43 +1,51 @@
-## About Me
+# 👋 About Me
+
 ![Jibarozzo's visitors](https://visitor-badge.laobi.icu/badge?page_id=jibarozzo.jibarozzo) 
 [![Jibarozzo's GitHub followers](https://img.shields.io/github/followers/jibarozzo?label=Follow&style=social)](https://github.com/jibarozzo)
 
+I am a **data scientist**, **bioinformatician**, and **research software developer** with a background in **ecology and evolutionary biology**. My research combines amplicon and whole-genome sequencing to unravel the complex interactions between microbial symbionts and their plant hosts—ranging from tropical trees to alpine yellow monkeyflowers, and most recently, bioenergy feedstocks.
 
-I am an ecology and evolutionary biologist and data scientist. My work encompasses amplicon and whole-genome sequencing to explore the interaction foliar fungal symbionts, AKA endophytes, in tropical trees and alpine yellow monkeyflowers . I combine field biology and wet lab skills with data science to answer how leaf traits in tropical trees and alpine yellow monkeyflowers influence the endophyte communities able to colonize them.  More info in my [CV](https://github.com/bolivaraponte/CVR_BAR/tree/Main).
+My work centers on applying reproducible data pipelines in **R** (with a dash of Python) to reveal insightful microbial patterns in ecological datasets. I leverage a range of statistical and machine learning methods, including **Principal Component Analysis (PCA)**, **Linear Discriminant Analysis (LDA)**, **distance-based Redundancy Analysis (dbRDA)**, and advanced linear modeling (GLMs and GLMMs), to analyze genomic and ecological data.
 
-## Data Scientist | Machine Learning & Bioinformatics Enthusiast
+As a committed advocate for open, transparent, and reproducible science, I collaborate with the [ESIP Data Stewardship Committee](https://www.esipfed.org/) to advance best practices in data management and stewardship.
 
-I leverage some machine learning algorithms to analyze genomic and ecological data for insightful patterns. My expertise includes:
+I am also interested in web development for scientific communication and reproducible research. For example, I use **Quarto** to develop interactive and accessible web documentation and dashboards, such as for the [esipDMP](https://esipfed.github.io/esipDMP/) project.
 
+In addition to R and Python, I work with **Rust** and **MongoDB** to build robust, high-performance data tools—such as [rateDMP](https://github.com/jibarozzo/rateDMP), which leverages Rust for backend processing and MongoDB for scalable data storage and querying.
 
-- **Clustering/dimensionality reduction**:   *Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), & distance-based Redundacy Analysis (dbRDA)* Utilizing dimensional reduction techniques to to enhance classification accuracy of fungal communities and understand patterns from biological and environmental data.
-- **Linear models**: Applying general linear models and linear mixed models to ecological data.
-- **Bioinformatics**: Utilizing HPC clusters and Unix like systems to analyse ITS amplicons from endophyte communities
+I develop and maintain several R packages and analysis tools for the research community, including:
+
+- [**BRCore**](https://github.com/germs-lab/BRCore): An R package for core analysis workflows in microbial ecology.
+- [**interbrc-core-analysis**](https://github.com/germs-lab/interbrc-core-analysis): Analysis pipelines for the Bioenergy Research Centers shared research objective in feedstock microbiomes.
+- [**esipDMP**](https://github.com/ESIPFed/esipDMP): A premier in data management planning and stewardship.
+- [**rateDMP**](https://github.com/jibarozzo/rateDMP): (Rust) An experimental tool for rating or evaluating Data Management Plans.
+
+You can find more details about my professional background in my [CV](https://github.com/bolivaraponte/CVR_BAR/tree/Main).
+
+---
+
+### 🔬 Research Interests
+
+- Microbial ecology & plant-microbe interactions
+- Genomics & bioinformatics
+- Machine learning & statistical modeling
+- Reproducible research & open science
+- Web development for scientific communication
+
+---
+
+### 💬 Let’s Connect
+
+I’m always interested in new collaborations, open-source projects, and discussions about data science, bioinformatics, and reproducibility. Feel free to reach out or connect via [GitHub Issues](https://github.com/jibarozzo) or [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/bolivar-aponte/).
 
 ### :hammer_and_wrench: Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=r,rust,python,docker,bash,latex,html,css,obsidian,arch&perline=4&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,rust,python,docker,bash,latex,html,css,obsidian,arch,mongodb&perline=4&theme=dark)](https://skillicons.dev)
 
 
 [![Bolívar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jibarozzo&show_icons=true&theme=highcontrast)](https://github.com/jibarozzo/github-readme-stats)
 
 
-# 📈 Projects
 
-## I'm currently working on...
 
-### [endophytes-leaf-traits](https://github.com/bolivaraponte/endophyte-leaf-traits)
-
-This project investigates the role of endophytes in the modulation of leaf functional traits and tropical trees'  response to herbivory and pathogen damage.
-
-### [endophytes_mimulus](https://github.com/bolivaraponte/endophytes_mimulus)
-
-This project aims to explore and characterize the endophytes found on the leaf tissue of *Mimulus guttatus*, *Mimulus laciniatus*, *Mimulus nasutus* and others along an elevation and geographic gradient in the Sierra Nevada, California, USA.
-
-## Let's Connect
-
-I am excited about the intersection of ecology, genomics and data science. Let's connect and explore potential collaborations or discuss how my skills can contribute to your projects. Feel free to reach out!
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jibarozzo/) 
-[Email](mailto:apontebolivar@gmail.com)
 
